@@ -24,7 +24,6 @@ warnings.filterwarnings('ignore')
 # Page configuration
 st.set_page_config(
     page_title="GES Lively Minds Programme Analysis",
-    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
